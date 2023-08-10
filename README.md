@@ -1,3 +1,4 @@
+```
 lowercase
 UPPERCASE
 camelCase
@@ -8,3 +9,4 @@ Train-Case
 Pascal_Snake_Case
 SCREAMING-KEBAB-CASE
 SCREAMING_SNAKE_CASE
+```
