@@ -1,0 +1,10 @@
+lowercase
+UPPERCASE
+camelCase
+PascalCase
+kebab-case
+snake_case
+Train-Case
+Pascal_Snake_Case
+SCREAMING-KEBAB-CASE
+SCREAMING_SNAKE_CASE
